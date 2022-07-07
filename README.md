@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Pablu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Olá, Eu sou o @Pabluu
 
-<!---
-Pabluu/Pabluu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Seja bem-vinda(o) ao meu repositório do github. Listarei abaixo alguma páginas github que eu fiz durante todo o meu percurso no github.
+
+## Projetos No Ar (Pages GitHub).
+- [Simulador de SAC - Sistema de Amortização Constante](https://pabluu.github.io/simulador_sac/)
+- [Portfolio](https://pabluu.github.io/porfolio/)
