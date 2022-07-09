@@ -4,4 +4,4 @@ Seja bem-vinda(o) ao meu repositório do github. Listarei abaixo alguma páginas
 
 ## Projetos No Ar (Pages GitHub).
 - [Simulador de SAC - Sistema de Amortização Constante](https://pabluu.github.io/simulador_sac/)
-- [Portfolio](https://pabluu.github.io/porfolio/)
+- [Portfolio - EM ANDAMENTO](https://pabluu.github.io/porfolio/)
