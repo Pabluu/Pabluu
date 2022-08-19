@@ -1,4 +1,4 @@
-👋 Olá!!!! Eu sou o Pablo Henrique e <strong>seja bem-vinda(o)</strong> ao meu repositório do github
+👋 Olá!!!! Eu sou o Pablo Henrique e <strong>seja bem-vinda(o)</strong> ao meu repositório.
 
 <div align="center">
   <a href="https://github.com/Pabluu">
