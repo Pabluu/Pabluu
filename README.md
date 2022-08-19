@@ -17,12 +17,12 @@
 </div>
 
 <!-- Redes Sociais -->
-<div>
-  <a href="https://www.linkedin.com/in/pablo-hsc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pabloph0077@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/729370896917069954" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div >
+  <a href="https://www.linkedin.com/in/pablo-hsc" target="_blank"><img style="border-radius: 5px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a style="border-radius: 5px" href = "mailto:pabloph0077@gmail.com"><img style="border-radius: 5px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a style="border-radius: 5px" href="https://discord.com/users/729370896917069954" target="_blank"><img style="border-radius: 5px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://www.youtube.com/channel/UC7hMaULPfcllnNfl7dwDXQQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    <img style="border-radius: 5px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a>
 
 ![Snake animation](https://github.com/Pabluu/Pabluu/blob/output/github-contribution-grid-snake.svg)
